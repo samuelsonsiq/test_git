@@ -1,0 +1,74 @@
+git
+
+1- entrar na pasta dos arquivo
+cd Documentos/ruby/
+
+2- iniciar o git
+git init
+
+3- add o repositorio criado
+
+git remote add origin https://github.com/SamuelsonH2T/ruby.git
+
+
+4- add os arquivos
+git add arrays.rb 
+git add . -> esse comando add todos os arquivos da pasta
+
+5- comitar os arquivos
+
+git commit -m "iniciando arrays"
+
+6- subir os arquivos de fato!
+
+git push origin master
+
+
+
+#################################################################
+
+atualizando aquivos						#
+
+#################################################################
+
+1- entrar na pasta dos arquivo
+cd Documentos/ruby/
+
+2- add as o arquivo(s) que foram modificados
+git add arrays.rb 
+git add . -> esse comando add todos os arquivos da pasta
+
+3- comitar os arquivos alterados
+
+git commit -m "alterando arquivo"
+
+4- subir os arquivos de fato!
+
+git push origin master
+
+
+####################################################################
+
+baixando arquivos do git					   #
+
+####################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
