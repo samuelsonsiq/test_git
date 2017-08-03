@@ -55,6 +55,7 @@ baixando arquivos do git					   #
 
 
 
+git pull
 
 
 
